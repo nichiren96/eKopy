@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "234624337829",
+    "project_id": "ekopy-7b9d3",
+    "storage_bucket": "ekopy-7b9d3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234624337829:android:942b1cb5c04b32ff148a4c",
+        "android_client_info": {
+          "package_name": "com.example.ekopy"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234624337829-99pdnb033h20j8jioh4tirdn6hv0jr7n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDvMX3iF1HqYCjjGORH37EzCP557jWMqmI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "234624337829-99pdnb033h20j8jioh4tirdn6hv0jr7n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
